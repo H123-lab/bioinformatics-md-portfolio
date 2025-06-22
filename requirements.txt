@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+MDAnalysis
+MDTraj
+biopython
+openbabel
+deepchem
